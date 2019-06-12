@@ -1,0 +1,30 @@
+#EXTINF:0 tvg-logo="https://i.imgur.com/xgOp4rb.png" group-title="ESPORTES", SPORTV
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/37255.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iz6bQEJ.png" group-title="ESPORTES", SPORTV 2
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36943.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/21X6WZP.png" group-title="ESPORTES", SPORTV 3
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36942.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="ESPORTES", FOX SPORTS
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36970.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES", COMBATE
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36986.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sBjm44S.png" group-title="ESPORTES", PREMIERE CLUBES
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36948.ts
+
+#EXTINF:0 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png?fit=500%2C300" group-title="ESPORTES", ALL SPORTS 
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title="ESPORTES", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="ESPORTES", MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20190222_1550878101947/1200K/1200_slide.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png" group-title="ITALIA",Sky Sport F1 HD (Copyright © 2019 - TeamBlue)
+https://1.ip2stream.icu/live/sky_sport_f1_hd/chunks.m3u8
+
